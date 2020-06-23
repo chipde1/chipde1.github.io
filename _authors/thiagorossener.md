@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: chipde1
+display_name: chipde1
 position: Chief Editor
 bio: Just a developer.
 github_username: thiagorossener
