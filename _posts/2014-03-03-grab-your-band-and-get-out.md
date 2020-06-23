@@ -4,7 +4,7 @@ layout: post
 title: music
 subtitle: 나의 음악저장소
 description: 제가 좋아하는 음악을 담았습니다.
-image: https://github.com/chipde1/local/blob/master/%EB%A9%9C%EB%A1%A0.png
+image: https://imgnews.pstatic.net/image/011/2018/04/09/0003265714_001_20180409175201539.png?type=w647
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
 category: music
 tags:
