@@ -1,7 +1,7 @@
 ---
 date: 2018-10-09 12:26:40
 layout: post
-title: book
+title: detective novels
 subtitle: 추리소설
 description: 제가 좋아하는 추리소설들 입니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
