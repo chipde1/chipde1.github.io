@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: chipde1
+title: chipde1 | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -8,8 +8,8 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: mmjj1205@naver.com
+disqus_username: chipde1
 show_hero: true
 menu:
   - title: Home
